@@ -1,7 +1,7 @@
 # AI-8queens-GeneticAlgorithm
 The 8 Queens problem using genetic algorithm in python
 
-NOTE: The number of queens (8 or 15) needs to be hardcoded under the section
+NOTE: The number of queens (currently 8) needs to be hardcoded under the section
 #-------- MAIN -------#
 
 How to run the code:
